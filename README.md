@@ -19,4 +19,5 @@ SetTitleMatchMode, slow
 #IfWinActive  ahk_group game
 
 ^LShift::
-```autohotkey
+```
+autohotkey
